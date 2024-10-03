@@ -1,0 +1,6 @@
+flask
+stanza
+PyPDF2
+docx2txt
+transformers
+torch
